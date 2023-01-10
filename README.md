@@ -32,6 +32,5 @@
   <a><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a><a><img src="https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  
+  <a><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <br>
