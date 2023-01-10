@@ -1,11 +1,10 @@
 
   <div align="center">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsung1017&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jinsung1017&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
   
-### Jinsung 🐾
-  
+  ### Jinsung 🐾
   ---
   
   <a href="https://jinsung1017.github.io/JOO/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Portfolio&logoColor=white" height="29px" width="100px"/></a> 
