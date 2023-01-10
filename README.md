@@ -1,7 +1,14 @@
 
   <div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jinsung1017&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsung1017&layout=compact&theme=dark&show_icons=true)" />
+</a>
+  
+
+
+
 
   
   ### Jinsung 🐾
