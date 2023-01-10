@@ -8,8 +8,8 @@
   
   ---
   
-  <a href="https://jinsung1017.github.io/JOO/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Portfolio&logoColor=white" height="25px"/></a> 
-  <a href="https://solved.ac/jinsung7605"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jinsung7605" height="25px"/></a>
+  <a href="https://jinsung1017.github.io/JOO/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Portfolio&logoColor=white" height="29px" width="100px"/></a> 
+  <a href="https://solved.ac/jinsung7605"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jinsung7605" height="28px"/></a>
  
 
     
