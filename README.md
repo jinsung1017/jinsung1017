@@ -28,6 +28,7 @@
   <a><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <br>
   <a><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
